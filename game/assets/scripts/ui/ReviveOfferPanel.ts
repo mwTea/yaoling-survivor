@@ -52,7 +52,7 @@ export class ReviveOfferPanel extends Component {
     this.layoutContent();
     bringPanelToFront(this.node);
     if (this.headlineLabel !== null) {
-      this.headlineLabel.string = '修行失败——观看广告可当场复活';
+      this.headlineLabel.string = '角色已力竭，可选择复活';
     }
     if (this.detailLabel !== null) {
       this.detailLabel.string = `复活后回复 50% 生命并获得短暂无敌。今日剩余 ${remainingToday} 次。`;
