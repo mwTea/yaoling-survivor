@@ -1,0 +1,18 @@
+# Cocos Creator generated/cache directories
+game/library/
+game/temp/
+game/build/
+game/profiles/
+game/native/
+
+# Node/editor/OS
+node_modules/
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Local scratch files
+work/*
+!work/.gitkeep
+

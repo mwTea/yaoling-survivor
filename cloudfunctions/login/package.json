@@ -1,0 +1,9 @@
+{
+  "name": "yaoling_login",
+  "version": "1.0.0",
+  "description": "yaoling-survivor V10-07 login cloud function: returns caller openid from wx context",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}
